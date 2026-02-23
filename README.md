@@ -1,6 +1,4 @@
-# Hi, I'm Kubvvsiek 👨‍💻
-
-I'm a passionate developer! 🚀
+# Hi, I'm Kubvvsiek 🙈
 
 ---
 
