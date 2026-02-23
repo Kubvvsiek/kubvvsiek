@@ -18,5 +18,10 @@ I'm a passionate developer! 🚀
 
 ---
 
-### 📊 | Profile Statistics
-![Statystyki](https://github-readme-stats.vercel.app/api?username=Kubvvsiek&show_icons=true&theme=dark&hide_border=true)
+### 🫠 | Tools
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
